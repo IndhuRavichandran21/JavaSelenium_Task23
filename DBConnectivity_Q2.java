@@ -2,7 +2,7 @@ package task23;
 
 import java.sql.*;
 import java.util.Scanner;
-public class DBConnectivity {
+public class DBConnectivity_Q2 {
 
 	public static void main(String[] args) throws SQLException { 
 		//establish the connection from java to database through driver
